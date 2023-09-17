@@ -57,6 +57,6 @@
 
 ###
 
-<h4 align="center">توسعه داده شده توسط برنامه نویسی با لذت</h4>
+<h4 align="center"> Author: Abhay Rai</h4>
 
 ###
