@@ -1,8 +1,8 @@
-<h2 align="center">Tenzi Game | بازی تاس ها</h2>
+<h2 align="center">Tenzi Game
 
 ###
 
-<h4 align="center">دمو | Demo 😁<br><br>https://codingwithenjoy.github.io/React-Tenzi-Game</h4>
+<h4 align="center">| Demo 😁<br><br>https://codingwithenjoy.github.io/React-Tenzi-Game</h4>
 
 ###
 
